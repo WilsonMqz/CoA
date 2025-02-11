@@ -11,5 +11,5 @@ Chain-of-Action
 3. Download VOC and COCO datasets into './datasets/'.
 4. Run the following demos:
 ```bash
-  python train_SJML_RC_Prompt_Learning.py 
+  python run_llava_ger_coa.py 
 ```
